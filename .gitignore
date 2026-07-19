@@ -1,0 +1,26 @@
+# Streamlit configuration folder
+.streamlit
+
+# Virtual environment folder
+venv
+
+# Python cache files
+__pycache__/
+
+# Python compiled files
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings folder
+.vscode/
+
+# PyCharm settings folder
+.idea/
+
+# System files
+.DS_Store
+
+# Test files
+test.md
