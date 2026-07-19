@@ -1,15 +1,15 @@
-# 🎥 YouTube AI Summarizer
+# YouTube AI Summarizer
 
 An AI-powered **YouTube video summarization application** built with **Streamlit**.  
 The app allows users to paste any public YouTube video URL and generate a concise, high-quality summary using an AI backend API.
 
 Designed for quickly extracting insights from:
 
-- 🎓 Lectures
-- 🎙 Podcasts
-- 📚 Tutorials
-- 🎤 Interviews
-- 📺 Educational videos
+- Lectures
+- Podcasts
+- Tutorials
+- Interviews
+- Educational videos
 
 ---
 
