@@ -3,6 +3,8 @@
 An AI-powered **YouTube video summarization application** built with **Streamlit**.  
 The app allows users to paste any public YouTube video URL and generate a concise, high-quality summary using an AI backend API.
 
+Built with this [notebook](https://www.kaggle.com/code/legendkaggle/llm-task-4-ngrok).
+
 Designed for quickly extracting insights from:
 
 - Lectures
@@ -88,7 +90,7 @@ youtube-ai-summarizer/
 ├── requirements.txt        # Python dependencies
 ├── .streamlit/
 │   └── secrets.toml        # API configuration
-│
+├── notebook.ipynb
 └── README.md
 ```
 
@@ -96,7 +98,7 @@ youtube-ai-summarizer/
 
 # Requirements
 
-- Python 3
+- Python
 - Streamlit
 - Requests
 
